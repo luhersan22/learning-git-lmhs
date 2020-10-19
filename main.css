@@ -1,3 +1,6 @@
 body {
-background: red;
+  background: red;
+}
+header {
+  margin: 10px;
 }
