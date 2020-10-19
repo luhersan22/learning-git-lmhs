@@ -1,3 +1,9 @@
 body {
-background: red;
+    background: red;
+}
+header {
+    background: green;
+}
+footer {
+    background: blue;
 }
